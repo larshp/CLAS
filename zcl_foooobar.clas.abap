@@ -6,9 +6,15 @@ class ZCL_FOOOOBAR definition
 public section.
 protected section.
 private section.
+
+  methods SDFSDFS .
 ENDCLASS.
 
 
 
 CLASS ZCL_FOOOOBAR IMPLEMENTATION.
+
+
+  method SDFSDFS.
+  endmethod.
 ENDCLASS.
