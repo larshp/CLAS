@@ -16,5 +16,6 @@ CLASS ZCL_FOOOOBAR IMPLEMENTATION.
 
 
   method SDFSDFS.
+    write 'sdf'.
   endmethod.
 ENDCLASS.
