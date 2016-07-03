@@ -5,8 +5,6 @@ FUNCTION zfunction_module.
 *"     VALUE(IV_FOO) TYPE  CHAR1
 *"----------------------------------------------------------------------
 
-
-  RETURN.
-
+  PERFORM foo.
 
 ENDFUNCTION.

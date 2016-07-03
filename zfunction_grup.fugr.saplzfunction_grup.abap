@@ -13,3 +13,5 @@
 * INCLUDE LZFUNCTION_GRUPE...                " Events
 * INCLUDE LZFUNCTION_GRUPP...                " Local class implement.
 * INCLUDE LZFUNCTION_GRUPT99.                " ABAP Unit tests
+
+INCLUDE lzfunction_grupf01.
