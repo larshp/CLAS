@@ -32,6 +32,20 @@
        <LINE_OF/>
        <TABLE_OF/>
       </RSIMP>
+      <RSIMP>
+       <PARAMETER>IS_DATA</PARAMETER>
+       <DBFIELD/>
+       <DEFAULT/>
+       <TYPES/>
+       <OPTIONAL/>
+       <REFERENCE/>
+       <CHANGING/>
+       <TYP>SVAL</TYP>
+       <CLASS/>
+       <REF_CLASS/>
+       <LINE_OF/>
+       <TABLE_OF/>
+      </RSIMP>
      </IMPORT>
      <CHANGING/>
      <EXPORT/>
@@ -43,6 +57,12 @@
        <KIND>P</KIND>
        <STEXT>Single-Character Flag</STEXT>
        <INDEX> 001</INDEX>
+      </RSFDO>
+      <RSFDO>
+       <PARAMETER>IS_DATA</PARAMETER>
+       <KIND>P</KIND>
+       <STEXT>Interface for function group SPO4</STEXT>
+       <INDEX> 002</INDEX>
       </RSFDO>
      </DOCUMENTATION>
     </item>
