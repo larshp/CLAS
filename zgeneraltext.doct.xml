@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_DOCT" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <DOC>
+    <DOCTITLE/>
+    <HEAD>
+     <TDOBJECT>DOKU</TDOBJECT>
+     <TDNAME>ZGENERALTEXT</TDNAME>
+     <TDID>TX</TDID>
+     <TDSPRAS>E</TDSPRAS>
+     <TDTITLE/>
+     <TDFORM>S_DOCU_SHOW</TDFORM>
+     <TDSTYLE>S_DOCUS1</TDSTYLE>
+     <TDVERSION>00001</TDVERSION>
+     <TDFUSER/>
+     <TDFRELES/>
+     <TDFDATE>0000-00-00</TDFDATE>
+     <TDFTIME>00:00:00</TDFTIME>
+     <TDLUSER/>
+     <TDLRELES/>
+     <TDLDATE>0000-00-00</TDLDATE>
+     <TDLTIME>00:00:00</TDLTIME>
+     <TDLINESIZE>072</TDLINESIZE>
+     <TDTXTLINES>00000</TDTXTLINES>
+     <TDHYPHENAT/>
+     <TDOSPRAS/>
+     <TDTRANSTAT>0</TDTRANSTAT>
+     <TDMACODE1/>
+     <TDMACODE2/>
+     <TDREFOBJ/>
+     <TDREFNAME/>
+     <TDREFID/>
+     <TDTEXTTYPE/>
+     <TDCOMPRESS/>
+     <MANDT/>
+     <TDOCLASS/>
+     <LOGSYS/>
+    </HEAD>
+    <LINES>
+     <TLINE>
+      <TDFORMAT>*</TDFORMAT>
+      <TDLINE>sdffoobar</TDLINE>
+     </TLINE>
+    </LINES>
+   </DOC>
+  </asx:values>
+ </asx:abap>
+</abapGit>
