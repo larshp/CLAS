@@ -7,6 +7,5 @@ FUNCTION zfunction_module.
 *"----------------------------------------------------------------------
 
   PERFORM foo.
-  PERFORM foo.
 
 ENDFUNCTION.
