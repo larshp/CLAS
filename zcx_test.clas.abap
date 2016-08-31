@@ -6,6 +6,7 @@ class ZCX_TEST definition
 public section.
 
   constants ZCX_TEST type SOTR_CONC value '02DD972011D51EE69BF0B0A98B0B0DCF' ##NO_TEXT.
+  constants SDF type SOTR_CONC value '02DD972011D51EE69BF0C3B348CFCDE8' ##NO_TEXT.
 
   methods CONSTRUCTOR
     importing
