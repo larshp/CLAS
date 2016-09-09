@@ -84,7 +84,7 @@
        <FLAG_COM/>
        <FLAG_CORR/>
        <STATUS>R</STATUS>
-       <VERSION>0004</VERSION>
+       <VERSION>0000</VERSION>
        <LENGTH>255</LENGTH>
        <TEXT>sdf</TEXT>
       </SOTR_TEXT>
@@ -128,7 +128,7 @@
        <FLAG_COM/>
        <FLAG_CORR/>
        <STATUS>R</STATUS>
-       <VERSION>0002</VERSION>
+       <VERSION>0000</VERSION>
        <LENGTH>255</LENGTH>
        <TEXT>foooobarr</TEXT>
       </SOTR_TEXT>
