@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_PINF" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <PINF>
+    <ATTRIBUTES>
+     <INTF_NAME>ZPACKAGE_INTERFACE</INTF_NAME>
+     <DESCRIPT>test</DESCRIPT>
+     <DEL_IN_MEM/>
+     <TADIR_DEVC/>
+     <PACK_NAME/>
+     <AUTHOR/>
+     <CREATED_BY/>
+     <CREATED_ON>0000-00-00</CREATED_ON>
+     <CHANGED_BY/>
+     <CHANGED_ON>0000-00-00</CHANGED_ON>
+     <PINFTYPE/>
+     <RESTRICTED/>
+     <DEFAULT_IF/>
+     <DEF_SEVER/>
+     <ACL_FLAG/>
+     <PIFSTABLTY/>
+     <SUPPRESS_TRANSL/>
+     <RELEASE_STATUS/>
+     <SW_COMP_LOGICAL_PACKAGE/>
+     <SW_COMP_TADIR_PACKAGE/>
+    </ATTRIBUTES>
+    <ELEMENTS>
+     <SCOMELDTLN>
+      <INTF_NAME>ZPACKAGE_INTERFACE</INTF_NAME>
+      <ELEM_TYPE>DOMA</ELEM_TYPE>
+      <ELEM_KEY>ZDOMA1</ELEM_KEY>
+      <ELEM_PACK/>
+      <DEL_IN_MEM/>
+      <USAG_RESTR/>
+      <STABILITY/>
+      <NO_CHECK/>
+      <USEASTYPE/>
+      <ASFORGNKEY/>
+      <DEPRECATION_TYPE/>
+      <REPLACEMENT_OBJECT_TYPE/>
+      <REPLACEMENT_OBJECT_NAME/>
+      <REPLACEMENT_SUBOBJECT_TYPE/>
+      <REPLACEMENT_SUBOBJECT_NAME/>
+     </SCOMELDTLN>
+    </ELEMENTS>
+   </PINF>
+  </asx:values>
+ </asx:abap>
+</abapGit>
