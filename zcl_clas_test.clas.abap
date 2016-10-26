@@ -1,8 +1,10 @@
-class ZCL_CLAS_TEST definition
-  public
-  create protected global friends ZCL_ABAPPGP_MONTGOMERY.
+CLASS zcl_clas_test DEFINITION
+  PUBLIC
+  CREATE PROTECTED
 
-public section.
+  GLOBAL FRIENDS zcl_abappgp_montgomery.
+
+  PUBLIC SECTION.
   PROTECTED SECTION.
 
     DATA mo_integer TYPE REF TO zcl_abappgp_integer.
@@ -21,14 +23,14 @@ ENDCLASS.
 CLASS ZCL_CLAS_TEST IMPLEMENTATION.
 
 
-  METHOD CONSTRUCTOR.
+  METHOD constructor.
 
     mo_integer = io_integer.
 
   ENDMETHOD.
 
 
-  METHOD GET_INTEGER.
+  METHOD get_integer.
 
     ro_integer = mo_integer.
 
