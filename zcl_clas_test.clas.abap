@@ -1,6 +1,6 @@
 class ZCL_CLAS_TEST definition
   public
-  create protected.
+  create protected global friends ZCL_ABAPPGP_MONTGOMERY.
 
 public section.
   PROTECTED SECTION.
