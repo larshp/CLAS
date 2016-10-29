@@ -1,3 +1,8 @@
 REPORT zclas_test.
 
-WRITE: / 'hello world'.
+START-OF-SELECTION.
+  PERFORM run.
+
+FORM run.
+  WRITE: / 'hello world'.
+ENDFORM.
