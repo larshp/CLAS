@@ -25,6 +25,7 @@ CLASS ZCL_CLAS_TEST IMPLEMENTATION.
 
   METHOD constructor.
 
+
     mo_integer = io_integer.
 
   ENDMETHOD.
