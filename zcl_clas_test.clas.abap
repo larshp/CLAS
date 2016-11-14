@@ -2,8 +2,6 @@ CLASS zcl_clas_test DEFINITION
   PUBLIC
   CREATE PROTECTED
 
-  GLOBAL FRIENDS zcl_abappgp_montgomery.
-
   PUBLIC SECTION.
   PROTECTED SECTION.
 
