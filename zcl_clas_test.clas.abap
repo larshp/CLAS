@@ -20,7 +20,7 @@ CLASS ZCL_CLAS_TEST IMPLEMENTATION.
 
   METHOD get_integer.
 
-    rv_integer = 42.
+    rv_integer = 43.
 
   ENDMETHOD.
 ENDCLASS.
