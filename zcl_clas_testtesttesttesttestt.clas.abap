@@ -1,4 +1,4 @@
-class ZCL_CLAS_TEST definition
+class ZCL_CLAS_TESTTESTTESTTESTTESTT definition
   public
   create public .
 
@@ -15,10 +15,10 @@ ENDCLASS.
 
 
 
-CLASS ZCL_CLAS_TEST IMPLEMENTATION.
+CLASS ZCL_CLAS_TESTTESTTESTTESTTESTT IMPLEMENTATION.
 
 
-  METHOD get_integer.
+  METHOD GET_INTEGER.
 
     rv_integer = 43.
 
