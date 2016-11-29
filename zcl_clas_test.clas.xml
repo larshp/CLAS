@@ -45,6 +45,14 @@
     <WITHIN_PACKAGE/>
    </VSEOCLASS>
    <TPOOL/>
+   <METHODS_DESCRIPTIONS>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_CLAS_TEST</CLSNAME>
+     <CMPNAME>GET_INTEGER</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>foobar</DESCRIPT>
+    </SEOCOMPOTX>
+   </METHODS_DESCRIPTIONS>
   </asx:values>
  </asx:abap>
 </abapGit>
