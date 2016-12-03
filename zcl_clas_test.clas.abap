@@ -13,6 +13,7 @@ private section.
   methods GET_INTEGER
     returning
       value(RV_INTEGER) type I .
+  methods METHOD_NO_DESCRIPTION .
 ENDCLASS.
 
 
@@ -25,4 +26,8 @@ CLASS ZCL_CLAS_TEST IMPLEMENTATION.
     rv_integer = 43.
 
   ENDMETHOD.
+
+
+  method METHOD_NO_DESCRIPTION.
+  endmethod.
 ENDCLASS.
