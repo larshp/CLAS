@@ -3,14 +3,16 @@ class ZCL_CLAS_TEST definition
   create public .
 
 public section.
+
+  types TY_FOO type I .
 protected section.
 
   data MO_INTEGER type ref to ZCL_ABAPPGP_INTEGER .
+private section.
 
   methods GET_INTEGER
     returning
       value(RV_INTEGER) type I .
-  PRIVATE SECTION.
 ENDCLASS.
 
 
@@ -18,7 +20,7 @@ ENDCLASS.
 CLASS ZCL_CLAS_TEST IMPLEMENTATION.
 
 
-  METHOD GET_INTEGER.
+  METHOD get_integer.
 
     rv_integer = 43.
 
