@@ -45,26 +45,6 @@
     <WITHIN_PACKAGE/>
    </VSEOCLASS>
    <TPOOL/>
-   <DESCRIPTIONS>
-    <SEOCOMPOTX>
-     <CLSNAME>ZCL_CLAS_TEST</CLSNAME>
-     <CMPNAME>GET_INTEGER</CMPNAME>
-     <LANGU>E</LANGU>
-     <DESCRIPT>method description</DESCRIPT>
-    </SEOCOMPOTX>
-    <SEOCOMPOTX>
-     <CLSNAME>ZCL_CLAS_TEST</CLSNAME>
-     <CMPNAME>MO_INTEGER</CMPNAME>
-     <LANGU>E</LANGU>
-     <DESCRIPT>attribute description</DESCRIPT>
-    </SEOCOMPOTX>
-    <SEOCOMPOTX>
-     <CLSNAME>ZCL_CLAS_TEST</CLSNAME>
-     <CMPNAME>TY_FOO</CMPNAME>
-     <LANGU>E</LANGU>
-     <DESCRIPT>type description</DESCRIPT>
-    </SEOCOMPOTX>
-   </DESCRIPTIONS>
   </asx:values>
  </asx:abap>
 </abapGit>

@@ -23,7 +23,11 @@ CLASS ZCL_CLAS_TEST IMPLEMENTATION.
 
   METHOD get_integer.
 
+    DATA: lv_foo TYPE string.
+
     rv_integer = 43.
+
+    lv_foo = 'hello world'.
 
   ENDMETHOD.
 
