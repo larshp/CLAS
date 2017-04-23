@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_STYL" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <TEXTS>
+    <item>
+     <HEAD>
+      <TDOBJECT>STYLE</TDOBJECT>
+      <TDNAME>ZSTYLEAA</TDNAME>
+      <TDID>DEF</TDID>
+      <TDSPRAS>E</TDSPRAS>
+      <TDTITLE>test</TDTITLE>
+      <TDSTYLE>ZSTYLEAA</TDSTYLE>
+      <TDLINESIZE>132</TDLINESIZE>
+      <TDTXTLINES>00002</TDTXTLINES>
+      <TDOSPRAS>E</TDOSPRAS>
+     </HEAD>
+     <LINES>
+      <TLINE>
+       <TDFORMAT>/:</TDFORMAT>
+       <TDLINE>STYLE PARAGRAPH DE;</TDLINE>
+      </TLINE>
+      <TLINE>
+       <TDFORMAT>/:</TDFORMAT>
+       <TDLINE>PARAGRAPH DE LINE-SPACE 1 LN;</TDLINE>
+      </TLINE>
+     </LINES>
+    </item>
+    <item>
+     <HEAD>
+      <TDOBJECT>STYLE</TDOBJECT>
+      <TDNAME>ZSTYLEAA</TDNAME>
+      <TDID>TXT</TDID>
+      <TDSPRAS>E</TDSPRAS>
+      <TDTITLE>test</TDTITLE>
+      <TDSTYLE>ZSTYLEAA</TDSTYLE>
+      <TDLINESIZE>132</TDLINESIZE>
+      <TDTXTLINES>00002</TDTXTLINES>
+      <TDOSPRAS>E</TDOSPRAS>
+     </HEAD>
+     <LINES>
+      <TLINE>
+       <TDFORMAT>/:</TDFORMAT>
+       <TDLINE>STYLE TEXT &apos;test&apos;;</TDLINE>
+      </TLINE>
+      <TLINE>
+       <TDFORMAT>/:</TDFORMAT>
+       <TDLINE>PARAGRAPH DE TEXT &apos;default&apos;;</TDLINE>
+      </TLINE>
+     </LINES>
+    </item>
+   </TEXTS>
+  </asx:values>
+ </asx:abap>
+</abapGit>
