@@ -88,7 +88,26 @@
      <ENTRY>Program ZDYNPRO</ENTRY>
      <LENGTH>15</LENGTH>
     </item>
+    <item>
+     <ID>S</ID>
+     <KEY>P_FOO</KEY>
+     <ENTRY>Hello</ENTRY>
+     <LENGTH>13</LENGTH>
+    </item>
    </TPOOL>
+   <I18N_TPOOL>
+    <item>
+     <LANGUAGE>D</LANGUAGE>
+     <TEXTPOOL>
+      <TEXTPOOL>
+       <ID>S</ID>
+       <KEY>P_FOO</KEY>
+       <ENTRY>        World</ENTRY>
+       <LENGTH>13</LENGTH>
+      </TEXTPOOL>
+     </TEXTPOOL>
+    </item>
+   </I18N_TPOOL>
   </asx:values>
  </asx:abap>
 </abapGit>

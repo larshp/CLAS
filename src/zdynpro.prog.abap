@@ -5,4 +5,6 @@
 *&---------------------------------------------------------------------*
 REPORT zdynpro.
 
+PARAMETERS p_foo TYPE c.
+
 CALL SCREEN 2000.
