@@ -99,12 +99,12 @@
     <item>
      <LANGUAGE>D</LANGUAGE>
      <TEXTPOOL>
-      <TEXTPOOL>
+      <item>
        <ID>S</ID>
        <KEY>P_FOO</KEY>
-       <ENTRY>        World</ENTRY>
+       <ENTRY>World</ENTRY>
        <LENGTH>13</LENGTH>
-      </TEXTPOOL>
+      </item>
      </TEXTPOOL>
     </item>
    </I18N_TPOOL>
