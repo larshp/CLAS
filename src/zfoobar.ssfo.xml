@@ -184,7 +184,7 @@
            <sf:NODE>
             <NODETYPE>WI</NODETYPE>
             <sf:OBJ>
-             <sf:WINDOW>
+             <sf:WINDOW ID="1">
               <NAME>
                <INAME>%WINDOW1</INAME>
               </NAME>
@@ -288,7 +288,7 @@
            <sf:NODE>
             <NODETYPE>WI</NODETYPE>
             <sf:OBJ>
-             <sf:WINDOW>
+             <sf:WINDOW ID="2">
               <NAME>
                <INAME>MAIN</INAME>
               </NAME>
@@ -426,7 +426,7 @@
            <sf:NODE>
             <NODETYPE>WI</NODETYPE>
             <sf:OBJ>
-             <sf:WINDOW IDREF="41447 "/>
+             <sf:WINDOW IDREF="1"/>
             </sf:OBJ>
             <sf:OUTATTR>
              <sf:OUTATTR>
@@ -509,7 +509,7 @@
            <sf:NODE>
             <NODETYPE>WI</NODETYPE>
             <sf:OBJ>
-             <sf:WINDOW IDREF="41595 "/>
+             <sf:WINDOW IDREF="2"/>
             </sf:OBJ>
             <sf:OUTATTR>
              <sf:OUTATTR>
