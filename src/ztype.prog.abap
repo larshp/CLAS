@@ -1,9 +1,10 @@
 *&---------------------------------------------------------------------*
-*& Report ZFOOBAR
+*& Report ZTYPE
 *&---------------------------------------------------------------------*
 *&
 *&---------------------------------------------------------------------*
-REPORT zfoobar.
+REPORT ztype.
 
-WRITE: / 'hmshellosdfsdfdfooo'.
-WRITE 'foobar'.
+TYPE-POOLS: ztype.
+
+DATA: lv_foo TYPE ztype_foo.
