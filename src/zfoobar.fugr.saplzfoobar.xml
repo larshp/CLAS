@@ -5,7 +5,7 @@
    <PROGDIR>
     <NAME>SAPLZFOOBAR</NAME>
     <STATE>A</STATE>
-    <VARCL>X</VARCL>
+    <SQLX>X</SQLX>
     <DBAPL>S</DBAPL>
     <DBNA>D$</DBNA>
     <SUBC>F</SUBC>

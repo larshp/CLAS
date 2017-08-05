@@ -7,6 +7,7 @@
     <OBJECTTYPE>S</OBJECTTYPE>
     <CLIDEP>X</CLIDEP>
     <OBJCATEG>APPL</OBJCATEG>
+    <IMPORTABLE>3</IMPORTABLE>
    </OBJH>
    <OBJT>
     <LANGUAGE>E</LANGUAGE>
@@ -23,6 +24,24 @@
      <PRIM_TABLE>X</PRIM_TABLE>
     </OBJS>
    </OBJS>
+   <TOBJ>
+    <TDDAT>
+     <TABNAME>ZFOOBAR</TABNAME>
+     <CCLASS>&amp;NC&amp;</CCLASS>
+    </TDDAT>
+    <TVDIR>
+     <TABNAME>ZFOOBAR</TABNAME>
+     <AREA>ZFOOBAR</AREA>
+     <DEVCLASS>$CLAS</DEVCLASS>
+     <TYPE>2</TYPE>
+     <LISTE>0001</LISTE>
+     <DETAIL>0002</DETAIL>
+     <BASTAB>X</BASTAB>
+     <GENDATE>2017-08-05</GENDATE>
+     <GENTIME>07:07:18</GENTIME>
+     <FLAG>X</FLAG>
+    </TVDIR>
+   </TOBJ>
   </asx:values>
  </asx:abap>
 </abapGit>

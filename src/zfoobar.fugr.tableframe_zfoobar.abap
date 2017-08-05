@@ -1,6 +1,6 @@
 *---------------------------------------------------------------------*
 *    program for:   TABLEFRAME_ZFOOBAR
-*   generation date: 05.08.2017 at 06:32:49
+*   generation date: 05.08.2017 at 07:07:17
 *   view maintenance generator version: #001407#
 *---------------------------------------------------------------------*
 FUNCTION TABLEFRAME_ZFOOBAR            .
