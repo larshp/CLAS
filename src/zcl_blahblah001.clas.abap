@@ -17,7 +17,7 @@ CLASS ZCL_BLAHBLAH001 IMPLEMENTATION.
 
   METHOD some_method.
 
-    WRITE: / 'hello world'.
+    WRITE: / 'hello world blah'.
 
   ENDMETHOD.
 ENDCLASS.
