@@ -7,7 +7,7 @@ CLASS zcl_blahblah001 DEFINITION
   PROTECTED SECTION.
   PRIVATE SECTION.
 
-    METHODS foo.
+    METHODS foo
 
     METHODS some_method
       IMPORTING iv_foo TYPE string.
