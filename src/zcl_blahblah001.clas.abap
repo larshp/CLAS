@@ -1,30 +1,31 @@
-class ZCL_BLAHBLAH001 definition
-  public
-  final
-  create public .
+CLASS zcl_blahblah001 DEFINITION
+  PUBLIC
+  FINAL
+  CREATE PUBLIC .
 
-public section.
-protected section.
-private section.
+  PUBLIC SECTION.
+  PROTECTED SECTION.
+  PRIVATE SECTION.
 
-methods foo.
+    METHODS foo.
 
-  methods SOME_METHOD 
-  importing iv_foo type string.
+    METHODS some_method
+      IMPORTING iv_foo TYPE string.
 
 ENDCLASS.
 
 
 
-CLASS ZCL_BLAHBLAH001 IMPLEMENTATION.
+CLASS zcl_blahblah001 IMPLEMENTATION.
 
-method foo.
-endmethod.
+
+  METHOD foo.
+  ENDMETHOD.
+
 
   METHOD some_method.
 
     WRITE: / 'hello world blah'.
 
   ENDMETHOD.
-
 ENDCLASS.
