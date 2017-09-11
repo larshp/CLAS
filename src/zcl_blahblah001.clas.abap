@@ -7,7 +7,8 @@ public section.
 protected section.
 private section.
 
-  methods SOME_METHOD .
+  methods SOME_METHOD 
+  importing iv_foo type string.
     methods other_METHOD .
 ENDCLASS.
 
