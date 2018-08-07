@@ -1,3 +1,3 @@
 REPORT zempty.
 
-WRITE: / 'hello worlddd'.
+WRITE: / 'hello wosdfsdrlddd'.
